@@ -6,4 +6,4 @@ elif age < 18 :
   print ("1.5 TRY")
 
 else : 
-  print ("3 TRY " ) 
+  print ("3 TRY " )
